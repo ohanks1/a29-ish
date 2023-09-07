@@ -3,6 +3,16 @@
 body {
     color: pink;
     background-color:beige;
-    
-
+    }
+img {
+    width: 45%;
 }
+
+.dragone {
+    text-align: center;
+    width: 25%;
+}
+
+
+
+    
