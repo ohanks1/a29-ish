@@ -4,13 +4,12 @@ body {
     color: pink;
     background-color:beige;
     }
-img {
+img .dragone {
     width: 45%;
 }
 
 .dragone {
     text-align: center;
-    width: 25%;
 }
 
 
